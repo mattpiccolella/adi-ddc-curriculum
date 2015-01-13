@@ -59,3 +59,24 @@ Also, try to keep it fun. Gifs are encouraged. Everyone likes the fun teacher :D
 
 For some examples, check out [my slides](https://slides.com/mattpiccolella) from last semester. They represent the general guidelines ADI Workshops uses in creating slides.
 
+# So, how can I start?
+It may seem daunting to begin writing curriculum. However, with these simple steps, you can be a master content writer!
+
+1. Find good content online for your subject. Places like [HTML Dog](http://htmldog.com/), [Codecademy](http://codecademy.com), and [Eloquent JavaScript](http://eloquentjavascript.net/) are great places to start. Also, check out ADI's [Resources page](https://adicu.com/resources) for a more comprehensive list.
+2. Outline all the sections of content you want to hit. For example, with an HTML curriculum, you would want to list things like Document Structure, Basic Tags, Images, Links, etc. (It may be a good idea to have someone review it at this point as well to make sure you're hitting all the important points.)
+3. Fill in the details. Do this with code segments, interesting pieces of information, and other things.
+4. Create simple exercises. For example, say you are going through JavaScript functions, create an exercise to convert pounds to kilograms. For bonus points, add solutions to your exercises!
+5. Issue a [pull request](https://help.github.com/articles/using-pull-requests/). This allows for other members of the group to give feedback, suggest edits, and check for typos before the content is added to the master copy.
+
+Once you have finished these steps, your content is ready and can be delivered to students! Woohoo!
+
+# Common Misconceptions
+There are many misconceptions about writing classroom content on technology subjects. I will address those here.
+
+- **You do not need to know the content already to write content.** One of the best ways to learn things is to write content for it. Want to learn JavaScript? Write content on JavaScript! Many of ADI's workshops are written by someone written the content as they learn the content themselves.
+- **You do not need to know Markdown like the back of your hand.** Markdown is not something you need to memorize. If you want something, say a list, google "Markdown lists"; the first result will give you what you need. Or, even more easily, use past tutorials we have written; copy and paste it to get the general structure set.
+- **You do not need to know Git.** If you are having trouble with issuing a pull request, this is a great way to learn! We are all very willing to help; writing content is the way I and many others learn about collaboration with Git.
+- **You are not expected to do everything yourself.** Ask for feedback often. Leave unfinished sections in your outline and have others fill in the details. Write the content and ask a partner to think of exercises. If you are adding to content in any way, that is awesome! Do as much as you can when you can.
+
+I hope this has been helpful! Now go out there and start writing awesome curriculum for our students!
+
