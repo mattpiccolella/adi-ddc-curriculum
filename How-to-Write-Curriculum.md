@@ -35,7 +35,7 @@ For example, say I wanted to mention the `Arrays.sort()` method in Java when tal
 
 We can also do blocks. This is huge for our curriculum because it represents the place where students will model all of their code off of:
 
-```
+```javascript
 function toCelsius(fahrenheit) {
     return (5/9) * (fahrenheit-32);
 }
