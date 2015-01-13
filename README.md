@@ -3,6 +3,7 @@ adi-ddc-curriculum
 Curriculum for the ADI-DDC Teaching Program.
 
 The curriculum is presently broken down into 5 sessions, broadly based on the following subjects:
+
 1. HTML
 2. CSS
 3. JavaScript
